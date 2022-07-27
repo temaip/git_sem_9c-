@@ -1,0 +1,15 @@
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.csproj.AssemblyReference.cache
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.AssemblyInfoInputs.cache
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.AssemblyInfo.cs
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/git/git_sem_9c#/bin/Debug/net6.0/git_sem_9c#
+/Users/artem/Desktop/git/git_sem_9c#/bin/Debug/net6.0/git_sem_9c#.deps.json
+/Users/artem/Desktop/git/git_sem_9c#/bin/Debug/net6.0/git_sem_9c#.runtimeconfig.json
+/Users/artem/Desktop/git/git_sem_9c#/bin/Debug/net6.0/git_sem_9c#.dll
+/Users/artem/Desktop/git/git_sem_9c#/bin/Debug/net6.0/git_sem_9c#.pdb
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.dll
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/refint/git_sem_9c#.dll
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.pdb
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/git_sem_9c#.genruntimeconfig.cache
+/Users/artem/Desktop/git/git_sem_9c#/obj/Debug/net6.0/ref/git_sem_9c#.dll
